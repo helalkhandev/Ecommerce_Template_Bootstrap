@@ -1,0 +1,25 @@
+.bg-color {
+  background: rgb(211, 245, 254);
+}
+
+.product-content:hover {
+  /* border: 1px solid red; */
+  box-shadow: 0 4px 8px 0 rgba(21, 0, 255, 0.5),
+    0 6px 20px 0 rgba(1, 9, 44, 0.19) !important;
+  scale: 1.01;
+  transition: 0.5s linear;
+}
+
+/* Product Details Page CSS start */
+.product-item {
+  overflow: hidden;
+}
+.product-item img {
+  cursor: pointer;
+  transition: 1s linear;
+}
+.product-item img:hover {
+  transform: scale(1.2);
+  transition: 1s linear;
+}
+/* Product Details Page CSS End */

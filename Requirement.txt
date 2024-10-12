@@ -1,0 +1,28 @@
+Create a Ecommerce website with 5 Page 
+
+1. Homepage Page:
+	a. Link (My Account, Wishlist, Login, Register)
+	b. Logo, Search button, Add to cart button
+	c. Banner (Full wide, Add minimum three images with sliding)
+	d. Menu bar (Home, Products, Product-detail, Signup, login)
+	e. Product row (Best Sellers) - using bootstrap card
+	f. Product row (New Products) - using bootstrap card 
+	g. Footer
+2. Product Page:
+	a. breadcrumb
+	b. Categories (Accordion) - left-pan
+	c. Products row - using bootstrap card) - right-pan
+3. Product-Detail Page:
+	a. breadcrumb
+	b. Image zoom - left-pan
+	c. Product detail (Quick Overview, Add to cart button) - right-pan
+4. Signup page:
+	a. Form (First name, Last Name, Phone, Email, user name, password)
+5. Login Page:
+	a. Form (user name, password)
+
+6. Full container wide navigation menu with mouse hover effect
+7. Confirmation popup window when submit the contact form
+8. Current Date & Time using JavaScript
+9. Include External CSS & JavaScript file
+10. Internal pages linking
